@@ -10,7 +10,7 @@ export function Navbar() {
     <header className={styles.header}>
       <div className={cn('container', styles.navContainer)}>
         <Link href="/" className={styles.brand}>
-          EdTech
+          BookandLab
         </Link>
 
         {/* Desktop Navigation */}
